@@ -5,11 +5,7 @@
 <h2 align="center">Welcome Hoawg_ah profile! 👋</h2>
 <h1 align="center">Hi 👋, I'm Le Hoang Anh</h1>
 
-<hr>
 
-<table>
-  <tr>
-    <td valign="top" width="65%">
       
 ### 👨‍💻 About me
 - Third-year Computer Science student @IUH  
@@ -18,10 +14,11 @@
 - Passionate about building intelligent, scalable, and reliable applications  
 
 ### 📫 Contact
-- Email: anh277160@gmail.com  
-- GitHub: [anh277160](https://github.com/anh277160)
+- Email: anh277160@gmail.com
+- GitHub: [https://github.com/anh277160](https://github.com/lehoanganh2406)
 
 ### 🛠 Tech Stack
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -30,5 +27,3 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-  </tr>
-</table>
