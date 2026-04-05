@@ -10,21 +10,21 @@
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### 👨‍💻 About me
-- Backend Developer
-- Interested in system design and distributed systems
-- Love building reliable and scalable backend services
+- Third-year Computer Science student @IUH
+- Aspiring AI Engineer with a strong interest in Backend and Fullstack development
+- Interested in machine learning, system design, and distributed systems
+- Passionate about building intelligent, scalable, and reliable applications
 
 ### 📫 Contact
 - Email: anh277160@gmail.com
 - GitHub: [https://github.com/anh277160](https://github.com/lehoanganh2406)
 
 ### 🛠 Tech Stack
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anh277160&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anh277160&layout=compact" />
-</p>
