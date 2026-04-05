@@ -5,7 +5,7 @@
 <h2 align="center">Welcome Hoawg_ah profile! 👋</h2>
 <h1 align="center">Hi 👋, I'm Le Hoang Anh</h1>
 
-
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
       
 ### 👨‍💻 About me
 - Third-year Computer Science student @IUH  
