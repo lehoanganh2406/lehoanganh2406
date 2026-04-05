@@ -7,7 +7,9 @@
 
 <hr>
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<p align="center">
+  <img alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</p>
 
 ### 👨‍💻 About me
 - Third-year Computer Science student @IUH
@@ -17,7 +19,7 @@
 
 ### 📫 Contact
 - Email: anh277160@gmail.com
-- GitHub: [https://github.com/anh277160](https://github.com/lehoanganh2406)
+- GitHub: [anh277160](https://github.com/anh277160)
 
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
